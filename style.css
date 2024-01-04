@@ -49,6 +49,9 @@
     text-decoration: none;
     color: white;
 }
+.navbar-right a:hover{
+    color: #006aea;
+}
 .navbar-right button{
     width: 150px;
     height: 50px;
@@ -176,6 +179,9 @@
     color: black;
     font-size: 20px;
     font-weight: bold;
+}
+#box a:hover{
+    color: #00a87a;
 }
 .container-2 button{
     width: 160px;
